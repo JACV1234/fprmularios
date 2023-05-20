@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formularios{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: khaki;
+    height: 50vh;
+}
+.lottie{
+    background-color: rgb(160, 194, 149);
+    height: 50gh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
